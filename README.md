@@ -18,12 +18,12 @@ This repository contains a single HTML file with an interactive multiple-choice 
 
 ## 📁 Files
 
-- `chemistry-quiz.html` - The main interactive quiz (open in browser to use)
+- `index.html` - The main interactive quiz (open in browser to use)
 
 ## 🎮 How to Use
 
 1. **Download**: Clone or download this repository
-2. **Open**: Double-click `c_chem_mcq.html` to open in your web browser (Chrome, Firefox, Edge, Safari)
+2. **Open**: Double-click `index.html` to open in your web browser (Chrome, Firefox, Edge, Safari)
 3. **Answer Questions**: Select your answer using radio buttons for each question. The correct answer will automatically be displayed with the explanation and the source of the related principle.
 4. **Review**: Once you have completed all ten (10) questions, scroll to the top of the page to view your score.
 
