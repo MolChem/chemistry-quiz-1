@@ -3,9 +3,9 @@ An interactive chemistry quiz covering **organic chemistry**, **chemical kinetic
 ## 🧪 Overview
 
 This repository contains a single HTML file with an interactive multiple-choice quiz. Users can test their knowledge across three chemistry domains:
-- **Organic Chemistry**: Functional groups, reactions, mechanisms, stereochemistry
-- **Chemical Kinetics**: Reaction rates, rate laws, activation energy, reaction mechanisms
-- **Analytical Chemistry**: Titration, spectroscopy, chromatography, qualitative analysis
+- **Organic Chemistry**
+- **Chemical Kinetics**
+- **Analytical Chemistry**
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ This repository contains a single HTML file with an interactive multiple-choice 
 - **No JavaScript Required**: Pure HTML forms with radio buttons for answers
 - **No CSS Files Needed**: Inline styling only
 - **Interactive UI**: Clickable radio buttons for answer selection
-- **Answer Key Included**: Correct answers visible after submission (using HTML form attributes)
+- **Answer Key Included**: Correct answers visible after radiobutton is selected (using HTML form attributes)
 - **Topic Coverage**: 10 questions across organic chemistry, kinetics, and analytical chemistry
 
 ## 📁 Files
@@ -22,8 +22,7 @@ This repository contains a single HTML file with an interactive multiple-choice 
 
 ## 🎮 How to Use
 
-1. **Download**: Clone or download this repository
-2. **Open**: Double-click `index.html` to open in your web browser (Chrome, Firefox, Edge, Safari)
+1. **Open**: Double-click `index.html` to open in your web browser (Chrome, Firefox, Edge, Safari)
 3. **Answer Questions**: Select your answer using radio buttons for each question. The correct answer will automatically be displayed with the explanation and the source of the related principle.
 4. **Review**: Once you have completed all ten (10) questions, scroll to the top of the page to view your score.
 
@@ -31,7 +30,7 @@ This repository contains a single HTML file with an interactive multiple-choice 
 
 | Category | Sample Topics |
 |----------|---------------|
-| **Organic Chemistry** | Functional groups, nucleophilic substitution, carbonyl chemistry, infrared spectroscopy, organic synthesis |
+| **Organic Chemistry** | Functional groups, nucleophilic substitution, infrared spectroscopy, organic synthesis |
 | **Chemical Kinetics** | Rate laws, order of reaction, half-life, reaction mechanisms |
 | **Analytical Chemistry** | Acid-base titration, UV-Vis spectroscopy |
 
